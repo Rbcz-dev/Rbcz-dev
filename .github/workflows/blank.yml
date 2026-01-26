@@ -2,28 +2,23 @@ name: CI Pipeline
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
   pull_request:
-    branches:
-      - main
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
   build:
-    name: Build and Test
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Run single command
-        shell: bash
-        run: echo "Hello, world!"
+      - name: Run basic check
+        run: echo "CI pipeline is running"
 
-      - name: Run multi-line script
-        shell: bash
+      - name: Build & test placeholder
         run: |
-          echo "Add other actions to build"
-          echo "Test and deploy your project"
+          echo "Build step"
+          echo "Test step"
