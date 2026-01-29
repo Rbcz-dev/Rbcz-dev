@@ -1,5 +1,5 @@
 <h2 align="left">
-  Hi 👋! My name is Raphael Baruck and I'm a Software Developer from Brazil 🇧🇷
+  Raphael Baruck
 </h2>
 
 ---
@@ -49,7 +49,7 @@
   src="https://media2.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.webp"
 />
 
-### 🌐 Connect with me
+### 🌐 Conecte-se comigo
 
 <div align="left">
   <a href="https://www.linkedin.com/in/raphael-baruck-229a262a5/" target="_blank">
