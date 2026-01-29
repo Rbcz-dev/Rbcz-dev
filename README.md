@@ -1,77 +1,131 @@
-<h2 align="left">
-  Raphael Baruck
-</h2>
+# 👨🏻‍💻 Raphael Baruck
+
+**`Desenvolvedor & Fundador da Magnorum`**
+Me chamo Raphael Baruck, tenho 17 anos e concluí o ensino médio. Sou apaixonado por inovação e tecnologia, liderando projetos de desenvolvimento de software e criando soluções práticas para o mercado. Compartilho meu conhecimento através de meus projetos pessoais e profissionais, com foco em desenvolvimento de aplicativos e plataformas web, como a Magnorum.
+
+<p align="left">
+    <a href="https://github.com/raphaelbaruck?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/raphaelbaruck?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/raphaelbaruck?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/raphaelbaruck?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Rbcz-dev&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=pt-br&hide_border=true"
-    height="150"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Rbcz-dev&locale=pt-br&theme=dark&hide_border=true"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Rbcz-dev&layout=compact&langs_count=5&theme=dark&locale=pt-br&hide_border=true"
-    height="150"
-  />
-</div>
+### 🤖 Linguagens e Tecnologias
 
----
-
-### 🛠️ Technologies & Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
-</div>
-
----
-
-<img
-  align="right"
-  height="150"
-  src="https://media2.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.webp"
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Kotlin"
+    title="Kotlin"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
 
-### 🌐 Conecte-se comigo
+<br/>
+<br/>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/raphael-baruck-229a262a5/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-      width="52"
-      height="40"
-    />
-  </a>
-</div>
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=raphaelbaruck&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelbaruck&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
 
 ---
 
-<br clear="both"/>
+### 💼 Experiência
 
-<img
-  src="https://raw.githubusercontent.com/Rbcz-dev/Rbcz-dev/output/snake.svg"
-  alt="Snake animation"
-/>
+**Desenvolvedor & Co-criador – Magnorum**  
+**Período:** 3 anos  
 
----
+Atuei no desenvolvimento e evolução do **Magnorum**, uma plataforma que conecta jovens talentos a oportunidades de emprego. Fui responsável pela **criação do produto, definição de funcionalidades, arquitetura do sistema e desenvolvimento do MVP**, aplicando tecnologias como **Java, Kotlin, JavaScript, Python, APIs REST, bancos de dados SQL e NoSQL e Git**.  
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Rbcz-dev/count.svg"/>
-</div>
+Além do desenvolvimento técnico, liderei **validação de funcionalidades, automação de processos e melhorias contínuas**, equilibrando **estratégia de negócio e eficiência tecnológica** para garantir escalabilidade, desempenho e impacto real para usuários e recrutadores.
