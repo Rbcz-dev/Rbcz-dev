@@ -2,7 +2,7 @@
 
 **`Desenvolvedor & Fundador da Magnorum`**
 
-Me chamo Raphael Baruck, tenho 17 anos e concluí o ensino médio. Sou apaixonado por inovação e tecnologia, liderando projetos de desenvolvimento de software e criando soluções práticas para o mercado. Compartilho meu conhecimento através de meus projetos pessoais e profissionais, com foco em desenvolvimento de aplicativos e plataformas web, como a Magnorum.
+Me chamo Raphael Baruck, tenho 18 anos e concluí o ensino médio. Sou apaixonado por inovação e tecnologia, liderando projetos de desenvolvimento de software e criando soluções práticas para o mercado. Compartilho meu conhecimento através de meus projetos pessoais e profissionais, com foco em desenvolvimento de aplicativos e plataformas web, como a Magnorum.
 
 
 ---
